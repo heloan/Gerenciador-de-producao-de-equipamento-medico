@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Univap.Projetos1", "Univap.Projetos1\Univap.Projetos1.csproj", "{153B623A-29C0-47C1-946C-11834F64D4A9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Univap.GeradorDeClasse", "Univap.GeradorDeClasse\Univap.GeradorDeClasse.csproj", "{8EEB59DB-291A-4852-8AB6-78E463442C27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{153B623A-29C0-47C1-946C-11834F64D4A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{153B623A-29C0-47C1-946C-11834F64D4A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{153B623A-29C0-47C1-946C-11834F64D4A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{153B623A-29C0-47C1-946C-11834F64D4A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EEB59DB-291A-4852-8AB6-78E463442C27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EEB59DB-291A-4852-8AB6-78E463442C27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EEB59DB-291A-4852-8AB6-78E463442C27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EEB59DB-291A-4852-8AB6-78E463442C27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6EB17F0-6773-4EE8-8DB8-1EBF02CA4CDE}
+	EndGlobalSection
+EndGlobal
